@@ -1,0 +1,8 @@
+Accepted films according to countries screened in Malaysia by submissions (%)
+Malaysia			15.0%
+Canada				10.7%
+United Kingdom			6.7%
+Brazil				4.0%
+Philippines			1.3%
+All other countries		57.3%
+Source: www.ecofilmfest.my
